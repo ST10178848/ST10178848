@@ -6,7 +6,7 @@
 🚀 Currently an Intern at InvestHood IT  
 📊 Passionate about APIs, UI/UX, databases, and solving real-world problems
 
-🔗 [View My Portfolio](https://st10178848.github.io)  
+🔗 [View My Portfolio](https://st10178848.github.io/endy-portfolio/)  
 📧 deandie17@gmail.com  
 📍 Gauteng / Limpopo, South Africa
 
